@@ -3,19 +3,19 @@
 
 # How To Install
 ```
-apt install git
+$ apt install git
 
-apt install nodejs
+$ apt install nodejs
 
-git clone https://github.com/ALX-04/Konversi-Bilangan-CLI
+$ git clone https://github.com/ALX-04/Konversi-Bilangan-CLI
 
-npm install inquirer
+$ npm install inquirer --save
 
-npm install delay
+$ npm install delay --save
 
-npm install chalk
+$ npm install chalk --save
 
-cd Konversi-Bilangan-CLI
+$ cd Konversi-Bilangan-CLI
 
-node konversi.js
+$ node konversi.js
 ```
